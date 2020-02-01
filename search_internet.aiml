@@ -10,7 +10,7 @@
                <li>Right away, sir! </li>
                <li>On it! </li>
             </random>
-            <system> chromium-browser "http://www.facebook.com"</system>
+		<system>http://GOOGLE.com</system>
         </template>
     </category>
 

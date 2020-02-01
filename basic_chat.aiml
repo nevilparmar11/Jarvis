@@ -15,7 +15,7 @@
     </category>
     
     <category>
-        <pattern>JARVIS</pattern>
+        <pattern>ALEXA</pattern>
         <template>
             <random>
                 <li>Welcome home sir!</li> 
@@ -59,14 +59,14 @@
     </category>
 
     <category>
-        <pattern>JARVIS *</pattern>
+        <pattern>ALEXA *</pattern>
         <template>
             <srai><star/></srai>
         </template>
     </category>
 
     <category>
-        <pattern>* JARVIS</pattern>
+        <pattern>* ALEXA</pattern>
         <template>
             <srai><star/></srai>
         </template>
@@ -94,7 +94,7 @@
     </category>
 
     <category>
-        <pattern>WHO CREATED JARVIS</pattern>
+        <pattern>WHO CREATED ALEXA</pattern>
         <template>
             the dz created me!
         </template>
@@ -136,9 +136,9 @@
     </category>
 
     <category>
-        <pattern>WHAT DOES JARVIS STAND FOR</pattern>
+        <pattern>WHAT DOES ALEXA STAND FOR</pattern>
         <template>
-            JARVIS stands for Just A Rather Very Intelligent System
+            ALEXA stands for Just A Rather Very Intelligent System
         </template>
     </category>
 
